@@ -1,0 +1,9 @@
+lr : 0.01
+batch_size : 128
+momentum : 0.9
+weight_decay : 0.000001
+ip_dim : 2
+hl_dim : 10
+op_dim : 2
+device : gpu
+epoch : 1000
